@@ -1,4 +1,8 @@
 _repo: Life-and-Treason-of-Benedict-Arnold_49500
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49500-h/images/cover.jpg
 creator:
   author:
     agent_name: Sparks, Jared
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '32656'
     url: http://www.gutenberg.org/2009/agents/32656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49500#Life-and-Treason-of-Benedict-Arnold
 gutenberg_issued: '2015-07-21'
 gutenberg_type: Text
 identifiers:
