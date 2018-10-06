@@ -1,47 +1,139 @@
 Project Gutenberg's Life and Treason of Benedict Arnold, by Jared Sparks
 
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.net
 
 Title: Life and Treason of Benedict Arnold
 
 Author: Jared Sparks
 
 Release Date: July 21, 2015 [EBook #49500]
+Last Updated: May 7, 2016
 
-Language: English
+Language: English Character set encoding: ISO-8859-1
 
-Character set encoding: ISO-8859-1
+Produced by David Widger from page images generously provided by the
+Internet Archive. Some text corrections and HTML modifications by Robert
+Homa, March 2016.
 
-*** START OF THIS PROJECT GUTENBERG EBOOK BENEDICT ARNOLD ***
-
-
-
-
-Produced by David Widger from page images generously
-provided by the Internet Archive
+*** START OF THIS PROJECT GUTENBERG EBOOK BENEDICT ARNOLD *** LIFE AND
+TREASON OF BENEDICT ARNOLD By Jared Sparks.
 
 
-
-
-
-
-
-LIFE AND TREASON OF BENEDICT ARNOLD
-
-By Jared Sparks.
 
 Boston:
 
 Hilliard, Gray, And Co.
 
 1835.
+
+
+
+CONTENTS.
+
+
+
+Life and Treason of Benedict Arnold
+
+
+
+PREFACE.
+
+
+CHAPTER I.
+
+Arnold's Birth and Early Life
+
+CHAPTER II.
+
+He begins his Military Career • Capture of Ticonderoga and Crown Point
+
+CHAPTER III.
+
+Expedition through the Wilderness to Quebec
+
+CHAPTER IV.
+
+Operations in Canada • Affair of the Cedars • Retreat from Montreal
+
+CHAPTER V.
+
+Arnold censured for the Seizure of Goods at Montreal • Appointed to the
+Command of a Fleet on Lake Champlain • Naval Combat
+
+CHAPTER VI.
+
+Stationed in Rhode Island • Superseded in his Rank by Congress •
+Complains of Injustice and ill Treatment • His Bravery in the Affair of
+Danbury • Commands at Philadelphia
+
+CHAPTER VII.
+
+Joins the northern Army • The tragical Death of Jane McCrea near Fort
+Edward • Arnold commands an Expedition to Fort Schuyler • Rejoins the
+main Army on the Hudson • The Battles of Behmus's Heights
+
+CHAPTER VIII.
+
+Takes Command in Philadelphia • Proposes joining the Navy • Charges
+against him by the Council of Pennsylvania • His Plan for a
+new Settlement in the western Part of New York • His Trial by a
+Court-martial
+
+CHAPTER IX.
+
+His expensive Style of Living and pecuniary Embarrassments • First
+Ideas of betraying his Country • Application to the French Ambassador •
+Marriage • Takes Command at West Point
+
+CHAPTER X.
+
+Progress of the Conspiracy on the Part of the British Commander • Major
+John André
+
+CHAPTER XI.
+
+Various Schemes for effecting an Interview between Arnold and André •
+Their Meeting within the American Lines
+
+CHAPTER XII.
+
+Outlines of the Plan for surrendering West Point • Major André passes in
+Disguise through the American Posts • His Capture at Tarrytown
+
+CHAPTER XIII.
+
+André makes known his true Character • His Letter to Washington • Escape
+of Arnold to the Enemy • Washington arrives at West Point
+
+CHAPTER XIV.
+
+Detection of Arnold's Treason • André removed to West Point and thence
+to Tappan • His Examination by a Board of Officers
+
+CHAPTER XV.
+
+Ineffectual Attempts to procure the Release of Major André • His
+Execution • The Captors of André • Joshua H. Smith • Captain Nathan Hale
+
+CHAPTER XVI.
+
+Narrative of Arnold's Plot communicated by Sir Henry Clinton to the
+Ministry • Arnold in New York • His Expedition against Virginia and New
+London
+
+CHAPTER XVII.
+
+Arnold sails for England • Anecdotes • His Residence at St. John's, and
+in the West Indies • His Death
+
+
+
+
+
+
 
 PREFACE.
 
@@ -54,7 +146,7 @@ is believed no apology for introducing them will be required.
 
 The author has of course consulted all the printed books and documents,
 which he could find; and among others he acknowledges his obligation
-to M. de Mar-bois' Complot d'Arnold et de Sir Henry Clinton, published
+to M. de Marbois' Complot d'Arnold et de Sir Henry Clinton, published
 several years ago in Paris, and soon afterwards translated by Mr. Walsh
 for the second volume of the American Register. The parts of M. de
 Marbois' book, which he wrote from personal knowledge and observation,
@@ -73,9 +165,9 @@ side of the question.
 
 Among General Washington's manuscripts are also original materials,
 including the papers that were laid before the board of general officers
-to whom Andre's case was submitted, and the drafts of letters and other
-papers left behind by Arnold when he escaped. Arnold's letters to
-Congress are curious, and indicate the workings of his mind while
+to whom Andre's case was submitted, and the drafts of letters and
+other papers left behind by Arnold when he escaped. Arnold's letters
+to Congress are curious, and indicate the workings of his mind while
 maturing his plot. The same may be said of some of his miscellaneous
 letters, which have fallen into the author's hands.
 
@@ -93,10 +185,15 @@ circumstances attending the treason of Arnold, have made valuable
 communications, either written or verbal, for the present work.
 
 The author will only add, that he has everywhere aimed at strict
-accuracy in his viii statements, and verified them whenever it was
-possible by reference to manuscript authorities. If his labors should be
-found to have contributed any thing to illustrate an interesting point
-of history, his end will be answered and his wishes gratified.
+accuracy in his statements, and verified them whenever it was possible
+by reference to manuscript authorities. If his labors should be found
+to have contributed any thing to illustrate an interesting point of
+history, his end will be answered and his wishes gratified.
+
+
+
+
+
 
 
 LIFE AND TREASON OF BENEDICT ARNOLD
@@ -104,11 +201,14 @@ LIFE AND TREASON OF BENEDICT ARNOLD
 
 
 
+
+
+
 CHAPTER I.
 
-_Arnold's Birth and Early Life._
+Arnold's Birth and Early Life.
 
-|Among the first settlers and proprietors of Rhode Island was William
+Among the first settlers and proprietors of Rhode Island was William
 Arnold, a name of some note in the local annals of his time. He had
 three sons, Benedict, Thomas, and Stephen. The eldest, that is, Benedict
 Arnold, succeeded Roger Williams as president of the colony under the
@@ -140,7 +240,7 @@ eldest, died in infancy. The same name was given to the next son. Of
 the six children, only he and his sister Hannah survived the years of
 childhood.
 
-_Benedict Arnold_, the second son above named, and the subject of this
+Benedict Arnold, the second son above named, and the subject of this
 notice, was born at Norwich, on the 3d of January, 1740. As his father's
 affairs were then in a successful train, it is probable he enjoyed the
 advantage of as good schools as the town or its vicinity afforded.
@@ -292,25 +392,27 @@ war began.
 
 
 
+
+
+
 CHAPTER II.
 
-_He begins his Military Career.--Capture of Ticonderoga and Crown
-Point._
+He begins his Military Career.--Capture of Ticonderoga and Crown Point.
 
-|There were in Connecticut two companies of militia called the
-Governor's Guards, and organized in conformity to an act of the
-legislature. One of these companies belonged to New Haven, and in March,
-1775, Arnold was chosen to be its commander. This company consisted of
-fifty-eight men. When the news of the battle of Lexington reached New
-Haven, the bells were rung, and great excitement prevailed among the
-people. Moved by a common impulse, they assembled on the green in the
-centre of the town, where the Captain of the Guards took occasion to
-harangue the multitude, and, after addressing himself to their patriotic
-feelings, and rousing their martial spirit by suitable appeals and
-representations, he proposed to head any number of volunteers that would
-join him, and march with them immediately to the scene of action. He
-ended his address by appointing a time and place for all such to meet,
-and form themselves into a company.
+There were in Connecticut two companies of militia called the Governor's
+Guards, and organized in conformity to an act of the legislature. One
+of these companies belonged to New Haven, and in March, 1775, Arnold was
+chosen to be its commander. This company consisted of fifty-eight men.
+When the news of the battle of Lexington reached New Haven, the bells
+were rung, and great excitement prevailed among the people. Moved by a
+common impulse, they assembled on the green in the centre of the town,
+where the Captain of the Guards took occasion to harangue the multitude,
+and, after addressing himself to their patriotic feelings, and rousing
+their martial spirit by suitable appeals and representations, he
+proposed to head any number of volunteers that would join him, and march
+with them immediately to the scene of action. He ended his address by
+appointing a time and place for all such to meet, and form themselves
+into a company.
 
 When the hour arrived, sixty volunteers appeared on the ground,
 belonging mostly to the Guards, with a few students from the College.
@@ -577,11 +679,14 @@ and suspicion.
 
 
 
+
+
+
 CHAPTER III.
 
-_Expedition through the Wilderness to Quebec._
+Expedition through the Wilderness to Quebec.
 
-|Arnold was now unemployed, but a project was soon set on foot suited
+Arnold was now unemployed, but a project was soon set on foot suited
 to his genius and capacity. General Washington had taken command of
 the army at Cambridge. The Continental Congress had resolved that
 an incursion into Canada should be made by the troops under General
@@ -1045,15 +1150,18 @@ the approach of General Montgomery from Montreal.
 
 
 
+
+
+
 CHAPTER IV.
 
-_Operations in Canada.--Affair of the Cedars.--Retreat from Montreal._
+Operations in Canada.--Affair of the Cedars.--Retreat from Montreal.
 
-|On the same day that Arnold made this retreat, Governor Carleton
-arrived at Quebec. He had escaped in the night from the British fleet,
-which was stopped by the American batteries at Sorel, and thence
-passed in a small armed vessel down the river. By an official return
-at Point-aux-Trembles, the entire force of the detachment, officers and
+On the same day that Arnold made this retreat, Governor Carleton arrived
+at Quebec. He had escaped in the night from the British fleet, which was
+stopped by the American batteries at Sorel, and thence passed in a
+small armed vessel down the river. By an official return at
+Point-aux-Trembles, the entire force of the detachment, officers and
 privates, consisted of six hundred and seventy-five men, being somewhat
 more than half the number that marched from Cambridge. Arnold despatched
 a messenger to General Montgomery, then at Montreal, describing his
@@ -1173,7 +1281,7 @@ With these means the Americans kept their ground, undisturbed by the
 enemy, till spring. Breastworks and fortifications were constructed
 of snow, which, by being rolled into a mass and saturated with water,
 immediately congealed into solid ramparts of ice. The prisoners within
-the city were kindly treated by Governor Carle-ton. He sent out Major
+the city were kindly treated by Governor Carleton. He sent out Major
 Meigs for their clothes and baggage, allowed them to be supplied with
 money and other conveniences by their friends, and, after they were
 released, they bore a unanimous testimony to the humanity and good
@@ -1275,7 +1383,7 @@ guarded, and would fall an easy prey to the fury of the savages. In this
 distressing dilemma, revolting as it was to every principle of honor
 and justice, the dictates of humanity pointed to but one course. Major
 Sherburne accepted such terms as were imposed upon him; and the
-treaty _was_ sent to be confirmed by General Arnold, with the positive
+treaty was sent to be confirmed by General Arnold, with the positive
 declaration on the part of Captain Forster, that the fate of his
 companions in arms depended on his acquiescence. By the terms of the
 capitulation, it was agreed that the prisoners should be released on
@@ -1340,22 +1448,22 @@ successful in the execution; the whole army was compelled precipitately
 to evacuate Canada, and retire over the Lake to Crown Point.
 
 Montreal was held till the last moment. Arnold then drew off his
-detachment, with no small risk of being intercepted by Sir Guy
-Carle-ton, and proceeded to St. John's, making, as General Sullivan
-wrote, "a very prudent and judicious retreat, with an enemy close at
-his heels." He had two days before been at St. John's, directed an
-encampment to be enclosed, and ordered the frame of a vessel then on the
-stocks to be taken to pieces, the timbers numbered, and the whole to be
-sent to Crown Point. General Sullivan soon arrived with the rear of
-his retreating army, and preparations were made for an immediate
-embarkation. To this work Arnold applied himself with his usual activity
-and vigilance, remaining behind till he had seen every boat leave the
-shore but his own. He then mounted his horse, attended by Wilkinson his
-aid-de-camp, and rode back two miles, when they discovered the enemy's
-advanced division in full march under General Burgoyne. They gazed at
-it, or, in military phrase, reconnoitred it, for a short time, and then
-hastened back to St. John's. A boat being in readiness to receive them,
-the horses were stripped and shot, the men were ordered on board, and
+detachment, with no small risk of being intercepted by Sir Guy Carleton,
+and proceeded to St. John's, making, as General Sullivan wrote, "a very
+prudent and judicious retreat, with an enemy close at his heels." He
+had two days before been at St. John's, directed an encampment to be
+enclosed, and ordered the frame of a vessel then on the stocks to be
+taken to pieces, the timbers numbered, and the whole to be sent to Crown
+Point. General Sullivan soon arrived with the rear of his retreating
+army, and preparations were made for an immediate embarkation. To this
+work Arnold applied himself with his usual activity and vigilance,
+remaining behind till he had seen every boat leave the shore but his
+own. He then mounted his horse, attended by Wilkinson his aid-de-camp,
+and rode back two miles, when they discovered the enemy's advanced
+division in full march under General Burgoyne. They gazed at it, or, in
+military phrase, reconnoitred it, for a short time, and then hastened
+back to St. John's. A boat being in readiness to receive them, the
+horses were stripped and shot, the men were ordered on board, and
 Arnold, refusing all assistance, pushed off the boat with his own hands;
 thus, says Wilkinson, "indulging the vanity of being the last man,
 who embarked from the shores of the enemy." The sun was now down,
@@ -1365,12 +1473,15 @@ Isle-aux-Noix.
 
 
 
+
+
+
 CHAPTER V.
 
-_Arnold censured for the Seizure of Goods at Montreal.--Appointed to the
-Command of a Fleet on Lake Champlain.--Naval Combat._
+Arnold censured for the Seizure of Goods at Montreal.--Appointed to the
+Command of a Fleet on Lake Champlain.--Naval Combat.
 
-|It being necessary that General Schuyler should be made acquainted,
+It being necessary that General Schuyler should be made acquainted,
 as soon as possible, with the present condition of the army, and the
 progress of the enemy, General Arnold consented to go forward for that
 purpose. His knowledge of all that had passed in Canada, during the last
@@ -1379,13 +1490,13 @@ a more satisfactory manner than it could be done in writing, and to add
 full explanations to the despatches of the commander. He found General
 Schuyler in Albany, at which place General Gates arrived in a few days,
 proceeding by order of Congress to take command of the northern army.
-Meantime General Sullivan retreated to Crown Point. Schuyler, Gates,
-and Arnold repaired together to that post.
+Meantime General Sullivan retreated to Crown Point. Schuyler, Gates, and
+Arnold repaired together to that post.
 
 It was expected that Sir Guy Carleton, as soon as he could provide
 water-craft sufficient, would make all haste up the Lake and commence
 an attack. A council of general officers was convened, who, after mature
-deliberation, resolved to abandon Crown Point, retire to Ticonde-roga,
+deliberation, resolved to abandon Crown Point, retire to Ticonderoga,
 strengthen that post, and make it the principal station of defence. This
 measure was thought extraordinary by General Washington and by Congress.
 It was looked upon as giving up a position, formidable in itself and by
@@ -1577,8 +1688,8 @@ strictly obeyed.--Wilkinson's Memoirs, Vol. I. p. 81.
 
 * General Wilkinson, by mistaking the position of Isle-aux-Têtes, has
 bestowed much unmerited censure upon Arnold. He supposes it to be at a
-place called Split Rock, which is but about twenty-five miles from
-Crown Point
+place called Split Rock, which is but about twenty-five miles from Crown
+Point
 
 The decks of his vessels were so low, that he thought it necessary to
 erect around them barricades of fascines, which should protect them from
@@ -1669,20 +1780,20 @@ the first engagement. The whole force of the attack now fell upon Arnold
 in the Congress galley. A ship of eighteen guns, a schooner of fourteen,
 and another of twelve, poured forth an unceasing fire within musket
 shot. The contest was kept up with unparalleled resolution for four
-hours, when the gal-? ley was reduced almost to a wreck, and was
-surrounded by seven sail of the enemy. In this situation Arnold ran the
-galley and the four gondolas into a small creek, on the east side of
-the Lake, about ten miles from Crown Point; and as soon as they were
-aground, and were set on fire, he ordered the marines to leap into the
-water armed with muskets, wade to the beach, and station themselves in
-such a manner on the bank, as to prevent the approach of the enemy's
-small boats. He was the last man, that remained on board, nor did he
-leave his galley, till the fire had made such progress, that it could
-not be extinguished. The flags were kept flying, and he maintained his
-attitude of defence on the shore, till he saw them consumed, and the
-whole of his flotilla enveloped in flames. There are few instances on
-record of more deliberate courage and gallantry, than were displayed by
-him from the beginning to the end of this action.
+hours, when the galley was reduced almost to a wreck, and was surrounded
+by seven sail of the enemy. In this situation Arnold ran the galley
+and the four gondolas into a small creek, on the east side of the Lake,
+about ten miles from Crown Point; and as soon as they were aground, and
+were set on fire, he ordered the marines to leap into the water armed
+with muskets, wade to the beach, and station themselves in such a manner
+on the bank, as to prevent the approach of the enemy's small boats. He
+was the last man, that remained on board, nor did he leave his galley,
+till the fire had made such progress, that it could not be extinguished.
+The flags were kept flying, and he maintained his attitude of defence
+on the shore, till he saw them consumed, and the whole of his flotilla
+enveloped in flames. There are few instances on record of more
+deliberate courage and gallantry, than were displayed by him from the
+beginning to the end of this action.
 
 Being no longer in a condition to oppose the enemy, he proceeded
 immediately through the woods with his men to Crown Point, and
@@ -1745,13 +1856,16 @@ military superiors, by Congress, and by the whole nation.
 
 
 
+
+
+
 CHAPTER VI.
 
-_Stationed in Rhode Island.--Superseded in his Rank by Congress.--?
-Complains of Injustice and ill Treatment.--His Bravery in the Affair of
-Danbury.--Commands at Philadelphia._
+Stationed in Rhode Island.--Superseded in his Rank by
+Congress.--Complains of Injustice and ill Treatment.--His Bravery in the
+Affair of Danbury.--Commands at Philadelphia.
 
-|General Carleton took possession of Crown Point, and for a few days
+General Carleton took possession of Crown Point, and for a few days
 menaced Ticonderoga; but, being convinced of his inability so late in
 the season to accomplish his main purpose of penetrating to Albany, he
 retired with his fleet and army down the Lake to seek winter-quarters in
@@ -1927,7 +2041,7 @@ witnessed.
 He rallied his men, and continued to annoy the enemy in their progress.
 Being reinforced the next day, he hung upon their flanks and rear
 throughout the whole march to their ships, attacking them at every
-assailable point. In a skirmish near Cornpo, just before the British
+assailable point. In a skirmish near Compo, just before the British
 embarked, the horse which he rode was shot through the neck, and on all
 occasions he exposed himself with his accustomed intrepidity.
 
@@ -2101,13 +2215,16 @@ recommending him to this appointment.
 
 
 
+
+
+
 CHAPTER VII.
 
-_Joins the northern Army.--The tragical Death of Jane M'Crea near Fort
+Joins the northern Army.--The tragical Death of Jane McCrea near Fort
 Edward.--Arnold commands an Expedition to Fort Schuyler.--Rejoins the
-main Army on the Hudson.--The Battles of Behmus's Heights._
+main Army on the Hudson.--The Battles of Behmus's Heights.
 
-|Arnold arrived at Fort Edward and joined General Schuyler in the latter
+Arnold arrived at Fort Edward and joined General Schuyler in the latter
 part of July. The array was then preparing to move five miles lower down
 the Hudson, and form an encampment on the high grounds near Moses Creek,
 which had been selected for the purpose by Kosciuszko. At the time of
@@ -2120,7 +2237,7 @@ commemorated by historians, and will be perpetuated as a memento of the
 melancholy fate of suffering innocence, and an affecting record of the
 horrors of savage warfare.
 
-The murder of Jane M'Crea has been a theme, which eloquence and
+The murder of Jane McCrea has been a theme, which eloquence and
 sensibility have alike contributed to dignify, and which has kindled
 in many a breast the emotions of a responsive sympathy. General Gates's
 description, in his letter to Burgoyne, although more ornate than
@@ -2128,7 +2245,7 @@ forcible, and abounding more in bad taste than simplicity or pathos, was
 suited to the feelings of the moment, and produced a lively impression
 in every part of America; and the glowing language of Burke, in one of
 his most celebrated speeches in the British Parliament, made the story
-of Jane M'Crea familiar to the European world.
+of Jane McCrea familiar to the European world.
 
 This young lady was the daughter of a clergyman, who died in New Jersey
 before the Revolution. Upon her father's death she sought a home in the
@@ -2354,12 +2471,11 @@ off so precipitately, that fifty-nine tents were left standing, and
 various articles of baggage and camp equipage were scattered in every
 direction. The faithless savages, not contented to desert their friends,
 seized the opportunity to steal and plunder whatever came in their way.
-
 Cuyler concealed himself and got safely into the fort.
 
 Thus was raised the siege of Fort Schuyler, and thus terminated St.
 Leger's expedition, from which great advantages had been expected by the
-British government in aid of General Bur-goyne. Almost immediately after
+British government in aid of General Burgoyne. Almost immediately after
 sending to Gates for a reinforcement, Arnold resolved to march forward
 with such troops as he had; and the news of St. Leger's retreat met him
 twenty-two miles from the fort. This movement, which was reported by the
@@ -2444,7 +2560,7 @@ right wing.
 
 Which party in the dispute was the most blamable, it would be difficult
 now to decide. That Gates was overbearing is certain; that Arnold was
-Impetuous and presuming may as little be doubted. He probably relied too
+impetuous and presuming may as little be doubted. He probably relied too
 much on the professions of friendship, and acts of indulgence, which
 the same commander had manifested in his favor the year before at
 Ticonderoga. There is room to believe, also, that a spice of jealousy
@@ -2457,7 +2573,7 @@ troops were going, when Scammell's battalion marched out, and, upon
 being told, he declared no more troops should go; he would not suffer
 the camp to be exposed. Had Gates complied with Arnold's repeated
 desires, he would have obtained a general and complete victory over the
-enemy. But it is evident to me, he never intended to fight Bur-goyne,
+enemy. But it is evident to me, he never intended to fight Burgoyne,
 till Arnold urged, begged, and entreated him to do it." After the
 convention of Saratoga, Colonel Varick again wrote as follows in a
 letter from Albany. "During Burgoyne's stay here, he gave Arnold great
@@ -2547,14 +2663,17 @@ third set was given to General Lincoln.
 
 
 
+
+
+
 CHAPTER VIII.
 
-_Takes Command in Philadelphia.--Proposes joining the Navy.--Charges
+Takes Command in Philadelphia.--Proposes joining the Navy.--Charges
 against him by the Council of Pennsylvania.--His Plan for a
 new Settlement in the western Part of New York.--His Trial by a
-Court-martial._
+Court-martial.
 
-|Before the end of May, Arnold joined the army at Valley Forge. It was
+Before the end of May, Arnold joined the army at Valley Forge. It was
 daily expected, that the enemy would evacuate Philadelphia; and, as
 the condition of his wound did not permit him to perform an active part
 during the campaign, Washington had determined to appoint him to the
@@ -2676,7 +2795,7 @@ three younger children were put under the charge of Miss Mercy Scollay,
 of Boston, to whom Arnold wrote in the following terms, a few days after
 he took the command at Philadelphia.
 
-"About three months ago I was informed, said he, "that my late worthy
+"About three months ago I was informed," said he, "that my late worthy
 friend General Warren left his affairs unsettled, and that, after paying
 his debts, a very small matter, if any thing, would remain for the
 education of his children, who, to my great surprise, I find have been
@@ -3026,13 +3145,16 @@ Court sentenced him to be reprimanded by the Commander-in-chief.
 
 
 
+
+
+
 CHAPTER IX.
 
-_His expensive Style of Living and pecuniary Embarrassments.--First
+His expensive Style of Living and pecuniary Embarrassments.--First
 Ideas of betraying his Country.--Application to the French
-Ambassador.--Marriage.--Tales Command at West Point._
+Ambassador.--Marriage.--Takes Command at West Point.
 
-|The decision of the court-martial was received with an ill grace by
+The decision of the court-martial was received with an ill grace by
 General Arnold, and with concealed emotions of deep resentment. He had
 loudly expressed a conviction, and perhaps he had actually persuaded
 himself into a belief, that a military tribunal would acquit him
@@ -3217,7 +3339,7 @@ family of Mr. Edward Shippen, afterwards Chief Justice of the State
 of Pennsylvania. His youngest daughter, at that time under the age of
 eighteen, was beautiful, gay, attractive, and ambitious. She had been
 admired and flattered by the British officers, and was a conspicuous
-personage at the gorgeous festival of the _Mischianza_, an entertainment
+personage at the gorgeous festival of the Mischianza, an entertainment
 given by them in honor of Sir William Howe, on the occasion of his
 resigning the command of the army and departing for Europe. Her
 acquaintance with André was on so familiar a footing, that she
@@ -3296,7 +3418,7 @@ way was fairly open; no undue concern had been shown, and no suspicions
 excited. Mr. Livingston's letter was followed immediately by Arnold in
 person, who, under pretence of having private business in Connecticut,
 passed through the camp on his route, and called at the quarters of the
-Commander-inchief. By his manner and conversation he seemed to have
+Commander-in-chief. By his manner and conversation he seemed to have
 no special object, but that of paying his respects, and incidentally
 expressed his desire of joining the army. Washington replied, that the
 campaign would probably be active, and that, if the condition of his
@@ -3383,7 +3505,7 @@ on the opposite or eastern bank of the river.
 
 Meantime the army retraced its steps, and, crossing the Hudson again at
 King's Ferry, moved down towards Hackensac, and encamped with the
-centre at Orangetowm, or Tappan, the left wing resting on the river
+centre at Orangetown, or Tappan, the left wing resting on the river
 near Dobbs's Ferry, and the right extending into the country. In this
 position the army remained for several weeks. The right was commanded
 by General Greene, the left by Lord Stirling; and the Light Infantry, a
@@ -3404,12 +3526,15 @@ Arnold's treachery, that he perceived his drift in making the request.
 
 
 
+
+
+
 CHAPTER X.
 
-_Progress of the Conspiracy on the Part of the British Commander.--Major
-John André._
+Progress of the Conspiracy on the Part of the British Commander.--Major
+John André.
 
-|Although the correspondence with the enemy had been kept up nearly
+Although the correspondence with the enemy had been kept up nearly
 eighteen months, it had always been under fictitious names by both
 parties. The epistolary intercourse between Major André and Mrs. Arnold,
 begun before her marriage and continued after that event, afforded
@@ -3419,9 +3544,9 @@ were made directly to Sir Henry Clinton, through the hands of Major
 André; and in this channel the correspondence was conducted to the end.
 André had the entire confidence of his commander, and was for a time his
 aid-de-camp, till raised to a higher station. He affixed to his letters
-the signature of _John Anderson_, and Arnold assumed the name of
-_Gustavus_. They also wrote in a disguised hand, and used other devices
-to prevent detection.
+the signature of John Anderson, and Arnold assumed the name of Gustavus.
+They also wrote in a disguised hand, and used other devices to prevent
+detection.
 
 Without giving any certain clew to his name, rank, or character,
 Arnold expressed in his first letters a dissatisfaction with the French
@@ -3566,7 +3691,7 @@ unnecessary for me to explain them.
 "Many projects for a meeting were formed, and consequently several
 attempts made, in all of which General Arnold seemed extremely desirous,
 that some person, who had my particular confidence, might be sent to
-him; some man, as he described it in writing, _of his own mensuration_.
+him; some man, as he described it in writing, of his own mensuration.
 
 "I had thought of a person under this important description, who would
 gladly have undertaken it, but that his peculiar situation at the time,
@@ -3592,29 +3717,19 @@ formed an ardent attachment for a young lady, which was reciprocated;
 but the marriage was defeated by the opposition of the lady's father.
 The strength of his passion for her is described in glowing colors, and
 with much enthusiasm of feeling, in his interesting letters written at
-the time to Miss Seward. She is there called _Honora_. Four years after
+the time to Miss Seward. She is there called Honora. Four years after
 the engagement had been dissolved by parental authority, she was married
 to another person. Till that time André had cherished the delusive
 fancy, that some propitious event would change the current of his
 fortunes, and crown his wishes with success. Despair had now shut the
 door of hope. The following lines, from Miss Seward's poetical tribute
-to his memory, allude to this incident.=
+to his memory, allude to this incident.
 
-`````"While the fair-one's sighs
-
-```Disperse, like April storms in sunny skies,
-
-```The firmer lover, with unswerving truth,
-
-```To his first passion consecrates his youth;
-
-```Though four long years a night of absence prove,
-
-```Yet Hope's soft star shone trembling on his love;
-
-```Till hovering Rumor chased the pleasing dream,
-
-```And veiled with raven-wing the silver beam."=
+"While the fair-one's sighs Disperse, like April storms in sunny
+skies, The firmer lover, with unswerving truth, To his first passion
+consecrates his youth; Though four long years a night of absence prove,
+Yet Hope's soft star shone trembling on his love; Till hovering Rumor
+chased the pleasing dream, And veiled with raven-wing the silver beam."
 
 From that moment André became disgusted with his pursuits, and resolved
 to seek relief from his bitter associations, and dissipate the memory
@@ -3662,7 +3777,7 @@ family of Sir Henry Clinton.
 
 Such was the confidence, and the respect for his talents, which he
 inspired in Sir Henry Clinton, that, when a vacancy occurred in the
-office of adjutant-general by the resignation of Lord Raw-don, he
+office of adjutant-general by the resignation of Lord Rawdon, he
 appointed André to fill the place at the head of the department. André
 was now only a captain in the service, and, the rank of major being
 requisite for an adjutant-general, Sir Henry Clinton wrote to the
@@ -3686,12 +3801,15 @@ adjutant-general.
 
 
 
+
+
+
 CHAPTER XI.
 
-_Various Schemes for effecting an Interview between Arnold and
-André.--Their Meeting within the American Lines._
+Various Schemes for effecting an Interview between Arnold and
+André.--Their Meeting within the American Lines.
 
-|After it had been decided, that André should go out and meet Arnold,
+After it had been decided, that André should go out and meet Arnold,
 various plans were devised for bringing about the interview in a manner,
 which should not excite suspicion. As Arnold had no associate, but kept
 his designs closely concealed within his own breast, the management
@@ -3702,7 +3820,7 @@ the tendency of their own acts. Every thing must seem to be done openly
 and for the public good, and the actors must at least suppose themselves
 to be engaged in an honorable service.
 
-In writing to André under the fictitious name of _Gustavus_, on the
+In writing to André under the fictitious name of Gustavus, on the
 30th of August, Arnold told him that he expected soon to procure an
 interview, when, said he, "you will be able to settle your commercial
 plan I hope agreeably to both parties." Alluding to himself in the
@@ -3712,16 +3830,15 @@ a conference with you, that you will close with it. He expects when you
 meet, that you will be fully authorized from your house; that the risks
 and profits of the copartnership may be fully and clearly understood.
 A speculation might at this time be easily made to some advantage with
-_ready money_." In this disguise of a pretended mercantile transaction
-he escaped the chance of detection, and made known by hints, that could
-not be mistaken, what he expected as the reward of his perfidy. As Sir
-Henry Clinton determined to risk nothing, till he should have all the
-security which the nature of the case admitted, so Arnold resolved to
-keep the matter in his own hands, till a definite sum of money should
-be agreed upon and promised, and all the preliminaries on that head
-settled. This could be done only by a personal arrangement between
-Arnold himself, and some individual deputed for the purpose by the
-British commander.
+ready money." In this disguise of a pretended mercantile transaction he
+escaped the chance of detection, and made known by hints, that could not
+be mistaken, what he expected as the reward of his perfidy. As Sir Henry
+Clinton determined to risk nothing, till he should have all the security
+which the nature of the case admitted, so Arnold resolved to keep the
+matter in his own hands, till a definite sum of money should be agreed
+upon and promised, and all the preliminaries on that head settled. This
+could be done only by a personal arrangement between Arnold himself, and
+some individual deputed for the purpose by the British commander.
 
 Arnold's first plan was to receive André within the lines, and even at
 his own head-quarters, as a person devoted to the American interests,
@@ -3754,18 +3871,20 @@ Colonel Sheldon, who was prepared to receive him. Whether André was
 deterred by the hazard of the undertaking, or any other cause, is not
 known, but he did not choose to pursue this course. He wrote a letter to
 Colonel Sheldon, however, dated at New York on the 7th of September, in
-which he said; "I am told my name is made known to you, and that I
-may hope your indulgence in permitting me to meet a friend near your
-outposts. I will endeavor to obtain permission to go out with a flag,
-which will be sent to Dobbs's Ferry on Monday next, the 11th instant,
-at twelve o'clock, where I shall be happy to meet Mr. G-------- Should I
-not be allowed to go, the officer who is to command the escort, between
-whom and myself no distinction need be made, can speak on the affair.
-Let me entreat you, Sir, to favor a matter so interesting to the parties
-concerned, and which is of so private a nature, that the public on
-neither side can be injured by it."
+which he said;
 
-This letter was signed _John Anderson_, and was in some sort an enigma
+"I am told my name is made known to you, and that I may hope your
+indulgence in permitting me to meet a friend near your outposts. I will
+endeavor to obtain permission to go out with a flag, which will be sent
+to Dobbs's Ferry on Monday next, the 11th instant, at twelve o'clock,
+where I shall be happy to meet Mr. G------. Should I not be allowed to
+go, the officer who is to command the escort, between whom and myself no
+distinction need be made, can speak on the affair. Let me entreat you,
+Sir, to favor a matter so interesting to the parties concerned, and
+which is of so private a nature, that the public on neither side can be
+injured by it."
+
+This letter was signed John Anderson, and was in some sort an enigma
 to Sheldon, who had not heard the name of the person expected from New
 York. Supposing it probable, however, that the letter came from the same
 person, he enclosed it to Arnold, telling him that his own health was
@@ -3777,13 +3896,13 @@ Arnold replied to Sheldon in a very plausible way, but seemed a little
 embarrassed in clearing up the mystical parts of the letter, especially
 the passage about an escort, which appeared not to tally with the idea
 of a person coming out on such a mission as that, which was pretended to
-be the object of Anderson's visit. He said to Sheldon, that he had
-been obliged to write with great caution, and had signed his letter
-_Gustavus_, to prevent any discovery in case it should fall into the
-enemy's hands; that since there were several things in Anderson's
-letter, which appeared mysterious, and as Sheldon was unwell, and he had
-himself business at Verplanck's Point, he would proceed to Dobbs's Ferry
-and meet the flag. He added, that, if any occurrence should, prevent the
+be the object of Anderson's visit. He said to Sheldon, that he had been
+obliged to write with great caution, and had signed his letter Gustavus,
+to prevent any discovery in case it should fall into the enemy's
+hands; that since there were several things in Anderson's letter, which
+appeared mysterious, and as Sheldon was unwell, and he had himself
+business at Verplanck's Point, he would proceed to Dobbs's Ferry and
+meet the flag. He added, that, if any occurrence should, prevent the
 expected meeting at Dobbs's Ferry, and Anderson should still come within
 the outposts, he wished Sheldon to send him word by an express, and also
 to permit Anderson to follow with an escort of two or three horsemen,
@@ -3803,20 +3922,20 @@ he should be at Dobbs's Ferry at a certain time. He presumed the letter
 would be sent to Arnold, who would understand its meaning, and conduct
 his plans accordingly. So it turned out. Arnold left home in the
 afternoon of the 10th, went down the river in his barge to King's Ferry,
-and passed the night at the house of Joshua H. Smith, who resided
-about two miles and a half from the Ferry near the road leading to
-Haver-straw. Early the next morning he proceeded to Dobbs's Ferry, at
-which place André had arrived according to his appointment, accompanied
-by Colonel Beverly Robinson, to whom the secret had already been
-entrusted by Sir Henry Clinton, probably at the suggestion or at least
-with the knowledge of Arnold. An accident occurred, which prevented the
-interview, and was near putting an end to the plot itself. When Arnold
-was approaching the point of destination by water, he was fired upon by
-the British gunboats stationed in that part of the river, and so closely
-pursued that his life was in danger and he was on the point of being
-taken prisoner. By some oversight the boats had not been withdrawn,
-or it may have been expected that Arnold would come with a flag, which
-appears not to have been the case.
+and passed the night at the house of Joshua H. Smith, who resided about
+two miles and a half from the Ferry near the road leading to Haverstraw.
+Early the next morning he proceeded to Dobbs's Ferry, at which place
+André had arrived according to his appointment, accompanied by Colonel
+Beverly Robinson, to whom the secret had already been entrusted by Sir
+Henry Clinton, probably at the suggestion or at least with the knowledge
+of Arnold. An accident occurred, which prevented the interview, and was
+near putting an end to the plot itself. When Arnold was approaching the
+point of destination by water, he was fired upon by the British gunboats
+stationed in that part of the river, and so closely pursued that his
+life was in danger and he was on the point of being taken prisoner. By
+some oversight the boats had not been withdrawn, or it may have been
+expected that Arnold would come with a flag, which appears not to have
+been the case.
 
 Having landed on the west side of the river, he went down to the Ferry,
 where he remained till night. Whether André and Robinson were at the
@@ -3971,16 +4090,16 @@ the other, and both directed to Colonel Robinson. The outer envelope
 stated in general terms, that he had consulted the Commander-in-chief,
 who disapproved the proposition, and said it was a business wholly
 belonging to the civil authority. The enclosed letter was more explicit,
-giving notice that he should in the night of the 20th instant send
-a person to Dobbs's Ferry, or _on board the Vulture_, who would be
-furnished with a boat and a flag of truce, and whose secrecy and honor
-might be depended upon. He likewise advised, that the Vulture should
-remain where she then was, till the time appointed. In a postscript
-he added; "I expect General Washington to lodge here on Saturday night
-next, and I will lay before him any matter you may wish to communicate."
-This hint had the double aim of giving the letter an appearance of being
-written on public business, and of making known the time when General
-Washington would return from Hartford.
+giving notice that he should in the night of the 20th instant send a
+person to Dobbs's Ferry, or on board the Vulture, who would be furnished
+with a boat and a flag of truce, and whose secrecy and honor might be
+depended upon. He likewise advised, that the Vulture should remain where
+she then was, till the time appointed. In a postscript he added; "I
+expect General Washington to lodge here on Saturday night next, and I
+will lay before him any matter you may wish to communicate." This hint
+had the double aim of giving the letter an appearance of being written
+on public business, and of making known the time when General Washington
+would return from Hartford.
 
 Within this second letter was enclosed a copy of the one heretofore
 mentioned as having been sent to André, appointing a place and time of
@@ -4132,7 +4251,7 @@ within the enemy's lines. These guard-boats were stationed in the river,
 whenever a British vessel of war came up, for the double purpose of
 preventing an intercourse with the shore, and obstructing the conveyance
 of supplies by the Tories and disaffected persons. The countersign or
-watchword, adopted on the present occasion, was _Congress_.
+watchword, adopted on the present occasion, was Congress.
 
 Towards evening, Smith called Samuel Colquhoun, and told him that
 General Arnold wished to speak with him. Colquhoun went into the house,
@@ -4347,12 +4466,15 @@ to the Vulture before morning.
 
 
 
+
+
+
 CHAPTER XII.
 
-_Outlines of the Plan for surrendering West Point.--Major André passes
-in Disguise through the American Posts.--His Capture at Tarrytown._
+Outlines of the Plan for surrendering West Point.--Major André passes in
+Disguise through the American Posts.--His Capture at Tarrytown.
 
-|No sooner had the parties arrived at Smith's House, than a cannonade
+No sooner had the parties arrived at Smith's House, than a cannonade
 was heard down the river. It was discovered to be against the Vulture,
 which, although distant several miles, was in full view, and for a time
 seemed to be on fire. It had been reported to Colonel Livingston by
@@ -4376,8 +4498,8 @@ brought to light. It is well ascertained, however, that, in case of
 success, Arnold was to be paid a very large amount of money. In his
 letter to the ministry on the subject, Sir Henry Clinton said he thought
 the plan of such vast importance, that it ought to be pursued "at every
-risk and _at any expense._" Arnold well knew the nature of the
-posts, which he was about to surrender, and, money being with him the
+risk and at any expense." Arnold well knew the nature of the posts,
+which he was about to surrender, and, money being with him the
 stimulating motive in the transaction, it may be presumed his demands
 were in proportion to the advantages expected from his guilt. Nor is
 it probable, that he consented without a price to barter the brilliant
@@ -4555,7 +4677,7 @@ good deal of concern for their safety, telling him that the Cow-boys had
 recently been out, and were believed then to be far up the country,
 and he advised him by all means not to proceed till morning. Smith
 prevaricated as well as he could, saying to Captain Boyd, that he and
-his fellow-traveller, whom he called _Mr. Anderson_, were employed by
+his fellow-traveller, whom he called Mr. Anderson, were employed by
 General Arnold to procure intelligence, that they expected to meet a
 person near White Plains for that purpose, and that it was necessary for
 them to go forward as expeditiously as possible.
@@ -4574,7 +4696,7 @@ on at all events. When Smith found his fears unheeded and his eloquence
 unavailing, he called in the aid of Captain Boyd, and inquired of him
 which was the safest road to White Plains. Boyd considered both roads
 perilous, but believed the one through North Castle the least so, for
-the _Lower Party_, or Cow-boys, infested the Tarrytown road, and had
+the Lower Party, or Cow-boys, infested the Tarrytown road, and had
 lately done mischief in that quarter. He used various arguments to
 dissuade them from going farther that night, to which Smith listened
 with open ears, and he resolved, against the will of André, to trespass
@@ -4615,7 +4737,7 @@ hasty-pudding and milk. This being despatched, Smith divided his small
 stock of paper money with André, took a final leave, and with his
 servant hastened back to Peekskill, and the same evening to Fishkill,
 where he had left his family four days before at the house of his
-brother-inlaw. On his way he took the road leading by Robinson's House,
+brother-in-law. On his way he took the road leading by Robinson's House,
 where he called on General Arnold and dined. He gave an account of
 André's progress, and mentioned the place where he left him, with which
 Arnold appeared well pleased. It is to be understood, however, that
@@ -4626,7 +4748,7 @@ Anderson.
 The Cow-boys were a set of people, mostly if not wholly refugees,
 belonging to the British side, and engaged in plundering cattle near the
 lines and driving them to New York. The name indicates their vocation.
-There was another description of banditti, called _Skinners_, who lived
+There was another description of banditti, called Skinners, who lived
 for the most part within the American lines, and professed attachment
 to the American cause; but in reality they were more unprincipled,
 perfidious, and inhuman, than the Cow-boys themselves; for these latter
@@ -4791,13 +4913,15 @@ from his boots.
 
 
 
+
+
+
 CHAPTER XIII.
 
-_André makes known his true Character.--His Letter to
-Washington.--Escape of Arnold to the Enemy.--Washington arrives at West
-Point._
+André makes known his true Character.--His Letter to Washington.--Escape
+of Arnold to the Enemy.--Washington arrives at West Point.
 
-|The course pursued by Jameson was extraordinary and inexplicable. On
+The course pursued by Jameson was extraordinary and inexplicable. On
 examining the papers, he found them to be in the undisguised handwriting
 of General Arnold, with which he was perfectly acquainted. Their
 contents and the manner of their being found were such, as, one would
@@ -4833,15 +4957,10 @@ the back of each in the same hand. To those, who are fond of tracing
 coincidences, it may be a curious fact, that the last canto of André's
 humorous satire, called the "Cow Chace," was first printed on the very
 day of his capture. It will be found in Rivington's Royal Gazette for
-September 23d, 1780. It ends with the following prophetic stanza.=
+September 23d, 1780. It ends with the following prophetic stanza.
 
-```"And now I've closed my epic strain,
-
-````I tremble as I show it,
-
-```Lest this same warrior-drover, Wayne,
-
-````Should ever catch the poet."=
+"And now I've closed my epic strain, I tremble as I show it, Lest this
+same warrior-drover, Wayne, Should ever catch the poet."
 
 With these papers in his hands, bearing incontestable marks of their
 origin, and procured in a way that indicated most unequivocally the
@@ -4998,8 +5117,8 @@ have succeeded.
 temper of my mind, or apprehension for my safety, induces me to take
 the step of addressing you; but that it is to rescue myself from an
 imputation of having assumed a mean character for treacherous purposes
-or self-interest; a conduct incompatible with the principles that actuate
-me, as well as with my condition in life.
+or self-interest; a conduct incompatible with the principles that
+actuate me, as well as with my condition in life.
 
 "It is to vindicate my fame that I speak, and not to solicit security.
 
@@ -5212,12 +5331,15 @@ Robinson's House, from which they had departed.
 
 
 
+
+
+
 CHAPTER XIV.
 
-_Detection of Arnold's Treason.--André removed to West Point and thence
-to Tappan.--His Examination by a Board of Officers._
+Detection of Arnold's Treason.--André removed to West Point and thence
+to Tappan.--His Examination by a Board of Officers.
 
-|While the party were on their way from the river to the house, Hamilton
+While the party were on their way from the river to the house, Hamilton
 was seen walking towards them with a quick step and anxious countenance.
 He came directly to Washington, and spoke to him in a low voice, and
 they retired together into the house.
@@ -5318,7 +5440,7 @@ There came, also, a letter from Beverly Robinson to Washington, dated
 on board the Vulture. This related to André. It was, in fact, a sort of
 demand for his release. According to Colonel Robinson's conception of
 the affair, André went on shore with a flag of truce, at the request of
-General Arnold, on _public business_, and had his permit to return to
+General Arnold, on public business, and had his permit to return to
 New York. "Under these circumstances," said he, "Major André cannot be
 detained by you without the greatest violation of flags, and contrary
 to the custom and usages of all nations." Upon the strength of this
@@ -5651,13 +5773,16 @@ countenance.
 
 
 
+
+
+
 CHAPTER XV.
 
-_Ineffectual Attempts to procure the Release of Major André.--His
+Ineffectual Attempts to procure the Release of Major André.--His
 Execution.--The Captors of André.--Joshua H. Smith.--Captain Nathan
-Hale._
+Hale.
 
-|Notwithstanding the equity of the sentence against André, and the
+Notwithstanding the equity of the sentence against André, and the
 irresistible testimony upon which it was founded, his rank and character
 excited so lively an interest in every breast, and there were so many
 extenuating circumstances connected with the manner in which he had been
@@ -6160,7 +6285,7 @@ he conceived them to deserve.
 
 In publishing this event likewise to the army in general orders, Sir
 Henry Clinton maintained the same reserve, concerning the mode of
-Andréas death. "The unfortunate fate of this officer," said he, "calls
+André's death. "The unfortunate fate of this officer," said he, "calls
 upon the Commander-in-chief to declare, that he ever considered Major
 André a gentleman of the highest integrity and honor, and incapable of
 any base action or unworthy conduct." Nothing was added as to the manner
@@ -6216,8 +6341,8 @@ the public. After expressing by a formal vote "a high sense of their
 virtuous and patriotic conduct," Congress granted to each of them an
 annual pension of two hundred dollars for life, and ordered a silver
 medal to be struck and presented to each, bearing on one side the
-inscription _Fidelity_, and on the other, _Vincit Amor Patrice_.
-These medals were given to the individuals by General Washington, at
+inscription Fidelity, and on the other, Vincit Amor Patrice. These
+medals were given to the individuals by General Washington, at
 head-quarters, with some ceremony, and they were invited to dine with
 him on that occasion. In writing to the President of Congress, he
 said, "The recompense is ample; it is an evidence of the generosity of
@@ -6319,7 +6444,7 @@ by his approbation encourage instances of generous self-sacrifice for
 the public good.
 
 The reader may be curious to know what became of Joshua H. Smith. We
-left him at Tap-pan under guard. He was tried by a court-martial, which
+left him at Tappan under guard. He was tried by a court-martial, which
 was assembled the day after the examination of André, and continued by
 adjournments for about four weeks. Many witnesses were brought before
 the court, among whom were Lafayette, Knox, Hamilton, Harrison, Colonel
@@ -6501,19 +6626,12 @@ satisfaction, that, although brought to an untimely end, it was his lot
 to die a martyr in his country's cause. The whole tenor of his conduct,
 and this declaration itself, were such proofs of his bravery, that it
 required not to be more audibly proclaimed. The following tribute is
-from the muse of Dr. Dwight.=
+from the muse of Dr. Dwight.
 
-```"Thus, while fond virtue wished in vain to save,
-
-```Hale, bright and generous, found a hapless grave;
-
-```With genius' living flame his bosom glowed,
-
-```And science charmed him to her sweet abode;
-
-```In worth's fair path his feet adventured far,
-
-```The pride of peace, the rising grace of war."=
+"Thus, while fond virtue wished in vain to save, Hale, bright and
+generous, found a hapless grave; With genius' living flame his bosom
+glowed, And science charmed him to her sweet abode; In worth's fair path
+his feet adventured far, The pride of peace, the rising grace of war."
 
 There was a striking similarity between the character and acts of Hale
 and André, but in one essential point of difference the former appears
@@ -6525,8 +6643,8 @@ are influenced by pecuniary considerations; and promotion could not
 be offered as an inducement, since that would be a temptation for an
 officer to hazard his life as a spy, which a commander could not with
 propriety hold out. Viewed in any light, the act must be allowed to bear
-unequivocal marks of patriotic disinterestedness and self-devotion. But
-André had a glorious prize before him; the chance of distinguishing
+unequivocal marks of patriotic disinterestedness and self-devotion.
+But André had a glorious prize before him; the chance of distinguishing
 himself in a military enterprise, honors, renown, and every allurement,
 that could flatter hope and stimulate ambition. To say the least, his
 personal advantages were to be commensurate with the benefit to his
@@ -6545,15 +6663,18 @@ deeply cherished in the hearts of his countrymen.
 
 
 
+
+
+
 CHAPTER XVI.
 
-_Narrative of Arnold's Plot communicated by Sir Henry Clinton to the
+Narrative of Arnold's Plot communicated by Sir Henry Clinton to the
 Ministry.--Arnold in New York.--His Expedition against Virginia and New
-London._
+London.
 
-|After the return of General Robertson and the other Commissioners to
-New York, Sir Henry Clinton made still another effort to rescue Major
-André. He wrote a long letter to Washington, recapitulating the facts
+After the return of General Robertson and the other Commissioners to New
+York, Sir Henry Clinton made still another effort to rescue Major André.
+He wrote a long letter to Washington, recapitulating the facts
 and reasonings already advanced, and claiming the release of his
 adjutant-general. He proposed to exchange for him Lieutenant Governor
 Gadsden, of South Carolina, who had been taken prisoner, and, with
@@ -6631,7 +6752,7 @@ colonel of a regiment in the British service, with the brevet of
 brigadier-general.
 
 Arnold had been but a few days with his new friends, when he published
-an _Address to the Inhabitants of America_, attempting to explain and
+an Address to the Inhabitants of America, attempting to explain and
 vindicate the course he had pursued. Considering the cause he undertook
 to defend, it is no wonder that he should say little to the purpose.
 Abuse of Congress and of the French alliance was the principal theme
@@ -6681,7 +6802,7 @@ this country, they may be assured, that, conscious of the rectitude of
 my intentions, I shall treat their malice and calumnies with contempt
 and neglect." Such was the tenor of Arnold's Address to his former
 fellow citizens of the United States. His next performance was a
-_Proclamation_ to the officers and soldiers of the Continental army,
+Proclamation to the officers and soldiers of the Continental army,
 particularly those who had "the real interest of their country at heart,
 and who were determined to be no longer the tools and dupes of Congress
 and of France." All such he invited to come over to the King's standard,
@@ -6915,14 +7036,14 @@ While these things were going on, Sir Henry Clinton received a letter
 from Lord George Germain, little suited to increase his respect for the
 judgment, good sense, or honesty of his new American brigadier. Among
 other inventions to please the ministry, Arnold had represented the
-facility with which West Point might be taken, if not by a _coup de
-main_, yet by a few days' regular attack, and had proposed a sort of
-plan for that object. Lord George Germain expressed some degree of
-surprise, that the British commander had not undertaken the business, or
-at least mentioned his intention of doing it. "Such is the present state
-of Great Britain," said he, "that every possible means must be
-employed for the reduction of the rebellion," and he urged a serious
-consideration of the subject.
+facility with which West Point might be taken, if not by a coup de main,
+yet by a few days' regular attack, and had proposed a sort of plan for
+that object. Lord George Germain expressed some degree of surprise,
+that the British commander had not undertaken the business, or at least
+mentioned his intention of doing it. "Such is the present state of Great
+Britain," said he, "that every possible means must be employed for the
+reduction of the rebellion," and he urged a serious consideration of the
+subject.
 
 These suggestions, to say the least, were a tacit censure upon Sir Henry
 Clinton, for his want either of discernment or enterprise. He felt their
@@ -6939,8 +7060,8 @@ practicable, (for to fail would be death to our cause in the present
 state of the war,) I shall most likely be induced to make the attempt.
 I have therefore required that general officer to send his plan of
 operation to me without delay, and to follow or accompany it himself."
-This was written on the 5th of April, 1781, and Arnold returned, a few
-weeks afterwards, to New York, thus escaping the fate that might
+This was written on the 5th of April, 1781, and Arnold returned, a
+few weeks afterwards, to New York, thus escaping the fate that might
 otherwise have awaited him at Yorktown.
 
 How he explained himself to Sir Henry Clinton is not known. We hear
@@ -7005,12 +7126,15 @@ scorn of mankind, than of their pity and contempt.
 
 
 
+
+
+
 CHAPTER XVII.
 
-_Arnold sails for England.--Anecdotes.--His Residence at St. John's, and
-in the West Indies.--His Death._
+Arnold sails for England.--Anecdotes.--His Residence at St. John's, and
+in the West Indies.--His Death.
 
-|The capitulation at York town having virtually put an end to the war,
+The capitulation at York town having virtually put an end to the war,
 and Arnold finding himself neither respected by the British officers,
 nor likely to be further employed in the service, obtained permission
 from Sir Henry Clinton to go to England. He sailed from New York
@@ -7050,7 +7174,7 @@ had also been paid to him by the officers before they left London.
 
 It has been seen in the preceding narrative, that the horse on which
 Arnold rode in the second battle of Behmus's Heights was shot under him,
-just as he was entering the Hessian redoubt. The animal was a beautiful.
+just as he was entering the Hessian redoubt. The animal was a beautiful
 Spanish horse, which had formerly belonged to Governor Skene, but
 was now the property of Colonel Lewis, and borrowed by Arnold for the
 occasion. A short time after the action, Colonel Lewis called on him,
@@ -7147,16 +7271,15 @@ he recovered the full value for which the goods had been insured.
 The judicial decision did not accord, however, with public sentiment,
 and the populace resolved to express their sense of the transaction in a
 manner, that could not be misunderstood. They made an effigy, which they
-called _The Traitor_, and hung it in a conspicuous place, so that it
-could be seen from Arnold's windows. A concourse of people was gathered
-around it, when a magistrate appeared among them and read the riot
-act. This dispersed or quieted them for the moment, but they soon
-reassembled, and exposed the effigy anew. The military at last
-interfered, and put an end to the proceedings, but not till the people
-had effected their object, and committed to the flames the symbol of
-their indignation; and indeed it may be supposed, that neither the
-magistrates nor the military were over-earnest to suppress the popular
-feeling on this occasion.
+called The Traitor, and hung it in a conspicuous place, so that it could
+be seen from Arnold's windows. A concourse of people was gathered around
+it, when a magistrate appeared among them and read the riot act. This
+dispersed or quieted them for the moment, but they soon reassembled, and
+exposed the effigy anew. The military at last interfered, and put an end
+to the proceedings, but not till the people had effected their object,
+and committed to the flames the symbol of their indignation; and indeed
+it may be supposed, that neither the magistrates nor the military were
+over-earnest to suppress the popular feeling on this occasion.
 
 How long Arnold continued at St. John's is uncertain. He went back to
 England, where he resided the rest of his life, though he was sometimes
@@ -7200,369 +7323,343 @@ in London, June 14th, 1801, aged sixty-one years.
 
 
 
-
-
-
-End of the Project Gutenberg EBook of Life and Treason of Benedict Arnold, by 
-Jared Sparks
-
 *** END OF THIS PROJECT GUTENBERG EBOOK BENEDICT ARNOLD ***
 
-***** This file should be named 49500-8.txt or 49500-8.zip *****
+***** This file should be named 49500-h.htm or 49500-h.zip *****
+
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/9/5/0/49500/
+http://www.gutenberg.org/4/9/5/0/49500/
 
-Produced by David Widger from page images generously
-provided by the Internet Archive
+Updated editions will replace the previous one--the old editions will be
+renamed.
 
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in
+the General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the PROJECT
+GUTENBERG™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies
+of this eBook, complying with the rules is very easy. You may use this
+eBook for nearly any purpose such as creation of derivative works,
+reports, performances and research. They may be modified and printed and
+given away--you may do practically anything with public domain
+eBooks. Redistribution is subject to the trademark license, especially
+commercial redistribution.
 
-Updated editions will replace the previous one--the old editions will
-be renamed.
+*** START: FULL LICENSE ***
 
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU
+DISTRIBUTE OR USE THIS WORK
 
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
+To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
+Project Gutenberg™ License (available with this file or online at
+http://gutenberg.net/license).
 
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
 
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
+1.A. By reading or using any part of this Project Gutenberg™ electronic
+work, you indicate that you have read, understand, agree to and
+accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all the
+terms of this agreement, you must cease using and return or destroy all
+copies of Project Gutenberg™ electronic works in your possession. If
+you paid a fee for obtaining a copy of or access to a Project Gutenberg™
+electronic work and you do not agree to be bound by the terms of this
+agreement, you may obtain a refund from the person or entity to whom you
+paid the fee as set forth in paragraph 1.E.8.
 
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used
+on or associated in any way with an electronic work by people who agree
+to be bound by the terms of this agreement. There are a few things that
+you can do with most Project Gutenberg™ electronic works even without
+complying with the full terms of this agreement. See paragraph 1.C
+below. There are a lot of things you can do with Project Gutenberg™
+electronic works if you follow the terms of this agreement and help
+preserve free future access to Project Gutenberg™ electronic works. See
+paragraph 1.E below.
 
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in
+the collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you
+are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
+derivative works based on the work as long as all references to Project
+Gutenberg are removed. Of course, we hope that you will support the
+Project Gutenberg™ mission of promoting free access to electronic works
+by freely sharing Project Gutenberg™ works in compliance with the terms
+of this agreement for keeping the Project Gutenberg™ name associated
+with the work. You can easily comply with the terms of this agreement
+by keeping this work in the same format with its attached full Project
+Gutenberg™ License when you share it without charge with others.
 
 1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing
+or creating derivative works based on this work or any other Project
+Gutenberg™ work. The Foundation makes no representations concerning the
+copyright status of any work in any country outside the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
+1.E.1. The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg™ License must appear prominently
+whenever any copy of a Project Gutenberg™ work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
 
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever. You may copy it, give it away or re-use
+it under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.net.
 
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.2. If an individual Project Gutenberg™ electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges. If you are redistributing or providing access to a work with
+the phrase "Project Gutenberg" associated with or appearing on the work,
+you must comply either with the requirements of paragraphs 1.E.1 through
+1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder. Additional terms will be linked
+to the Project Gutenberg ™ License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
 
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
+work or any other work associated with Project Gutenberg™.
 
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
+1.E.5. Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
+Gutenberg™ License.
 
 1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg™ web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form. Any alternate format must include the full Project Gutenberg™
+License as specified in paragraph 1.E.1.
 
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
+performing, copying or distributing any Project Gutenberg™ works unless
+you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
+1.E.8. You may charge a reasonable fee for copies of or providing access
+to or distributing Project Gutenberg™ electronic works provided that
 
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
+* You pay a royalty fee of 20% of the gross profits you derive from the
+use of Project Gutenberg™ works calculated using the method you already
+use to calculate your applicable taxes. The fee is owed to the owner of
+the Project Gutenberg™ trademark, but he has agreed to donate royalties
+under this paragraph to the Project Gutenberg Literary Archive
+Foundation. Royalty payments must be paid within 60 days following each
+date on which you prepare (or are legally required to prepare) your
+periodic tax returns. Royalty payments should be clearly marked as such
+and sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to the
+Project Gutenberg Literary Archive Foundation."
 
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
+* You provide a full refund of any money paid by a user who notifies you
+in writing (or by e-mail) within 30 days of receipt that s/he does not
+agree to the terms of the full Project Gutenberg™ License. You must
+require such a user to return or destroy all copies of the works
+possessed in a physical medium and discontinue all use of and all access
+to other copies of Project Gutenberg ™ works.
 
 * You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
+any money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days of
+receipt of the work.
 
 * You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
+distribution of Project Gutenberg™ works.
 
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™
+electronic work or group of works on different terms than are set forth
+in this agreement, you must obtain permission in writing from both the
+Project Gutenberg Literary Archive Foundation and Michael Hart, the
+owner of the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
 
 1.F.
 
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
+public domain works in creating the Project Gutenberg™ collection.
+Despite these efforts, Project Gutenberg™ electronic works, and the
+medium on which they may be stored, may contain "Defects," such as, but
+not limited to, incomplete, inaccurate or corrupt data, transcription
+errors, a copyright or other intellectual property infringement, a
+defective or damaged disk or other medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
 
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES: Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all liability
+to you for damages, costs and expenses, including legal fees. You agree
+that you have no remedies for negligence, strict liability, breach of
+warranty or breach of contract except those provided in Paragraph F3.
+You agree that the Foundation, the trademark owner, and any distributor
+under this agreement will not be liable to you for actual, direct,
+indirect, consequential, punitive or incidental damages even if you give
+notice of the possibility of such damage.
 
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND: If you discover a defect
+in this electronic work within 90 days of receiving it, you can receive
+a refund of the money (if any) you paid for it by sending a written
+explanation to the person you received the work from. If you received
+the work on a physical medium, you must return the medium with your
+written explanation. The person or entity that provided you with the
+defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund. If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
 
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+in paragraph 1.F.3, this work is provided to you 'AS-IS', with no other
+warranties of any kind, express or implied, including but not limited to
+warranties of merchantibility or fitness for any purpose.
 
 1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law. The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
 
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
+1.F.6. INDEMNITY: You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg™ electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you
+do or cause to occur: (a) distribution of this or any Project Gutenberg™
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg™ work, and (c) any Defect you cause.
 
-Section 2. Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg™
 
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
+Project Gutenberg ™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers. It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
+assistance they need, is critical to reaching Project Gutenberg's™ goals
+and ensuring that the Project Gutenberg™ collection will remain freely
+available for generations to come. In 2001, the Project Gutenberg
+Literary Archive Foundation was created to provide a secure and
+permanent future for Project Gutenberg™ and future generations. To learn
+more about the Project Gutenberg Literary Archive Foundation and how
+your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive
+Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
+501(c)(3) educational corporation organized under the laws of the state
+of Mississippi and granted tax exempt status by the Internal Revenue
+Service. The Foundation's EIN or federal tax identification number
+is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
 
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887,
+email business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official page
+at http://pglaf.org.
 
 For additional contact information:
 
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
+Dr. Gregory B. Newby Chief Executive and Director gbnewby@pglaf.org
 
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
+Section 4. Information about Donations to the Project Gutenberg Literary
+Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array
+of equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status with
+the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
 States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
 with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
+where we have not received written confirmation of compliance. To send
+donations or determine the status of compliance for any particular state
+visit http://pglaf.org.
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
 
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside
+the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
+methods and addresses. Donations are accepted in a number of other ways
+including including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate.
 
-Section 5. General Information About Project Gutenberg-tm electronic works.
+Section 5. General Information About Project Gutenberg™ electronic
+works.
 
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
 
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S. unless
+a copyright notice is included. Thus, we do not necessarily keep eBooks
+in compliance with any particular paper edition.
 
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
+Most people start at our Web site which has the main PG search facility:
 
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+http://www.gutenberg.net
 
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe to
+our email newsletter to hear about new eBooks.
